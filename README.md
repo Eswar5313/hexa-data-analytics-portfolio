@@ -15,6 +15,10 @@
 
 <img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
 
+> 📘 **[Download the project book (PDF)](HEXA_Project_Book.pdf)** — cover + one summary sheet per project (14 sheets): what it is, verified results, deliverables, method, role fit and how to verify. Individual sheets: [`project-sheets/`](project-sheets/).
+
+
+
 ## 🧭 What This Repo Is
 
 > **13 complete data-analytics projects** built during my Data Analyst internship at **HEXA Solutions** (Jun – Sep 2026, remote) — spanning **EDA, SQL, statistics, machine learning, API pipelines, and BI dashboards** across 8 industry domains. Every project ships with a **PDF report + executive presentation + reproducible code**, following a consistent CRISP-DM workflow.
@@ -121,7 +125,7 @@ Every project follows **CRISP-DM**: business understanding → data understandin
 | 📋 **Method Sheet** | PDF | One-page: dataset, 12-step method, results, skills demonstrated |
 
 <img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
-> 📂 **Where the files live:** each project has a full record (summary, results, tools, file list) in the [Master Portfolio dashboard](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#01-HEXA-Data-Analytics). Reports, decks and code are shared on request and walked through live in interviews.
+> 📂 **Where the files live:** every project has a one-page summary sheet in [`project-sheets/`](project-sheets/) and a full record (summary, results, tools, file list) in the [Master Portfolio dashboard](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#01-HEXA-Data-Analytics). Reports, decks and code are shared on request and walked through live in interviews.
 
 ## 🛡️ Integrity & Reproducibility Standard
 
