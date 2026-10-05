@@ -1,31 +1,23 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
+<!-- ═══════════════ CAREER CONTROL TOWER · REPOSITORY · HEXA ═══════════════ -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,50:1a3a6b,100:C9A227&height=200&section=header&text=Data%20Analytics%20Portfolio&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=13%20End-to-End%20Projects%20%E2%80%A2%20EDA%20%E2%80%A2%20SQL%20%E2%80%A2%20ML%20%E2%80%A2%20API%20Pipelines%20%E2%80%A2%20Dashboards&descSize=16&descAlignY=78)
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/headers/REPO_HEXA.svg" width="100%" alt="HEXA Data Analytics Portfolio — Eswar Mahalingam" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=20&duration=3000&pause=800&color=C9A227&center=true&vCenter=true&width=700&lines=13+projects+%E2%80%A2+8+domains+%E2%80%A2+1+repeatable+method;Every+project%3A+PDF+report+%2B+executive+deck+%2B+runnable+code;CRISP-DM+discipline+%E2%80%A2+Verified+figures+only)](https://git.io/typing-svg)
+<a href="https://github.com/Eswar5313"><img src="https://img.shields.io/badge/⬅-CAREER_CONTROL_TOWER-000000?style=for-the-badge&labelColor=FFFFFF" alt="CAREER CONTROL TOWER"/></a> <a href="https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/"><img src="https://img.shields.io/badge/✦-MASTER_PORTFOLIO-000000?style=for-the-badge&labelColor=C9CDD6" alt="MASTER PORTFOLIO"/></a> <a href="https://eswar5313.github.io/Eswar-Portfolio-Lens-Index-2026/"><img src="https://img.shields.io/badge/✦-LENS_INDEX-000000?style=for-the-badge&labelColor=FFFFFF" alt="LENS INDEX"/></a> <a href="https://eswar5313.github.io/hexa-data-analytics-portfolio/"><img src="https://img.shields.io/badge/✦-LIVE_DASHBOARD-000000?style=for-the-badge&labelColor=FFFFFF" alt="LIVE DASHBOARD"/></a>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://img.shields.io/badge/PROJECTS-13-FFFFFF?style=for-the-badge&labelColor=000000" alt="PROJECTS: 13"/> <img src="https://img.shields.io/badge/PDF_REPORTS-13-C9CDD6?style=for-the-badge&labelColor=000000" alt="PDF REPORTS: 13"/> <img src="https://img.shields.io/badge/EXECUTIVE_DECKS-13-FFFFFF?style=for-the-badge&labelColor=000000" alt="EXECUTIVE DECKS: 13"/> <img src="https://img.shields.io/badge/RUNNABLE_SCRIPTS-11-C9CDD6?style=for-the-badge&labelColor=000000" alt="RUNNABLE SCRIPTS: 11"/> <img src="https://img.shields.io/badge/DOMAINS-8-FFFFFF?style=for-the-badge&labelColor=000000" alt="DOMAINS: 8"/>
 
-![Projects](https://img.shields.io/badge/Projects-13-C9A227?style=for-the-badge)
-![Reports](https://img.shields.io/badge/PDF_Reports-13-0A1F44?style=for-the-badge)
-![Decks](https://img.shields.io/badge/Executive_Decks-13-C9A227?style=for-the-badge)
-![Scripts](https://img.shields.io/badge/Runnable_Scripts-11-0A1F44?style=for-the-badge)
+**13 end-to-end analytics projects** · EDA · SQL · statistics · ML · API pipelines · BI dashboards — *HEXA Solutions, Data Analyst, Jun – Sep 2026*
+
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FFFFFF) ![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=FFFFFF) ![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=FFFFFF) ![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=FFFFFF) ![Power BI](https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=FFFFFF) ![Tableau](https://img.shields.io/badge/Tableau-000000?style=flat-square&logo=tableau&logoColor=FFFFFF) ![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=FFFFFF) ![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=FFFFFF)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
 
 ## 🧭 What This Repo Is
 
-> **13 complete data-analytics projects** built during my Data Analyst program at **HEXA Solutions** — spanning **EDA, SQL, statistics, machine learning, API pipelines, and BI dashboards** across 8 industry domains. Every project ships with a **PDF report + executive presentation + reproducible code**, following a consistent CRISP-DM workflow.
+> **13 complete data-analytics projects** built during my Data Analyst internship at **HEXA Solutions** (Jun – Sep 2026, remote) — spanning **EDA, SQL, statistics, machine learning, API pipelines, and BI dashboards** across 8 industry domains. Every project ships with a **PDF report + executive presentation + reproducible code**, following a consistent CRISP-DM workflow.
 
 **Integrity standard applied throughout:** only dual-route verified figures are printed as results; all analysis is reproducible from the code in this repo; a live-demonstration offer stands for every project.
 
@@ -37,8 +29,7 @@
 | Flipkart CSAT decline gradient | **4.48 → 3.66** | Flipkart CSAT Analysis |
 | Sedentary-time vs sleep correlation | **r = −0.60** | Strava/Fitbit Fitness Data |
 
----
-
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
 ## 📊 The 13 Projects
 
 <details open>
@@ -99,8 +90,7 @@
 
 </details>
 
----
-
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
 ## 🔁 The Repeatable Method (All 13 Projects)
 
 ```mermaid
@@ -110,28 +100,28 @@ flowchart LR
     C --> D[⚙️ Modeling /\nSQL / Pipeline]
     D --> E[📊 Visualization\n& Dashboard]
     E --> F[📄 PDF Report +\n🎞️ Executive Deck]
-    style A fill:#0A1F44,color:#fff
-    style B fill:#1a3a6b,color:#fff
-    style C fill:#C9A227,color:#0A1F44
-    style D fill:#0A1F44,color:#fff
-    style E fill:#1a3a6b,color:#fff
-    style F fill:#C9A227,color:#0A1F44
+    style A fill:#000000,color:#fff
+    style B fill:#222222,color:#fff
+    style C fill:#FFFFFF,color:#000000
+    style D fill:#000000,color:#fff
+    style E fill:#222222,color:#fff
+    style F fill:#FFFFFF,color:#000000
 ```
 
 Every project follows **CRISP-DM**: business understanding → data understanding → preparation → modeling/analysis → evaluation → reporting. Business questions are defined *before* touching the data.
 
----
-
-## 📦 What Each Project Folder Contains
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
+## 📦 Deliverables Behind Every Project
 
 | Deliverable | Format | Description |
 |---|---|---|
 | 📄 **Project Report** | PDF | First-person analysis narrative — questions, method, findings, recommendations |
 | 🎞️ **Executive Deck** | PPTX | Leadership-ready presentation of results |
-| 🐍 **Code** | .py / .sql | Runnable scripts (11 across the repo) + SQLite databases |
+| 🐍 **Code** | .py / .sql | Runnable scripts (11 across the programme) + SQLite databases |
 | 📋 **Method Sheet** | PDF | One-page: dataset, 12-step method, results, skills demonstrated |
 
----
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
+> 📂 **Where the files live:** each project has a full record (summary, results, tools, file list) in the [Master Portfolio dashboard](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#01-HEXA-Data-Analytics). Reports, decks and code are shared on request and walked through live in interviews.
 
 ## 🛡️ Integrity & Reproducibility Standard
 
@@ -140,19 +130,19 @@ Every project follows **CRISP-DM**: business understanding → data understandin
 - ✅ **AI partnership disclosed** — AI used for structuring; analysis, decisions & validation are mine
 - ✅ **Live-demo offer** — every project can be re-run end-to-end on request
 
----
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
-## 👤 Author
+**Eswar Mahalingam** · B.Com · MBA · PGDLSCM · CSCMP SCPro · Six Sigma Black Belt
+Data Scientist @ Zidio Development · Ghaziabad NCR, India · Open to India · EU (Blue Card) · Gulf · Immediate joiner
 
-**Eswar Mahalingam** · MBA · CSCMP SCPro · Six Sigma Black Belt
-Data Analyst @ HEXA Solutions · Ghaziabad, India
+[![LinkedIn](https://img.shields.io/badge/✦-LINKEDIN-000000?style=for-the-badge&labelColor=C9CDD6)](https://linkedin.com/in/eswar-mahalingam)
+[![Email](https://img.shields.io/badge/✦-EMAIL-000000?style=for-the-badge&labelColor=FFFFFF)](mailto:eswarmba05313@gmail.com)
+[![Phone](https://img.shields.io/badge/✦-+91_9360548243-000000?style=for-the-badge&labelColor=C9CDD6)](tel:+919360548243)
+[![Portfolio](https://img.shields.io/badge/✦-PORTFOLIO_SITE-000000?style=for-the-badge&labelColor=FFFFFF)](https://eswar-3d-portfolio.netlify.app)
+[![Profile](https://img.shields.io/badge/⬅-CAREER_CONTROL_TOWER-000000?style=for-the-badge&labelColor=FFFFFF)](https://github.com/Eswar5313)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eswarmba05313@gmail.com)
-[![Profile](https://img.shields.io/badge/GitHub_Profile-0A1F44?style=for-the-badge&logo=github&logoColor=C9A227)](https://github.com/YOUR-USERNAME)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:C9A227,100:0A1F44&height=100&section=footer)
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/kailash-footer.svg" width="100%" alt="" />
 
 </div>
