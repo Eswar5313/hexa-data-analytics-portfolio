@@ -3,13 +3,13 @@
 
 <img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/headers/REPO_HEXA.svg" width="100%" alt="HEXA Data Analytics Portfolio — Eswar Mahalingam" />
 
-<a href="https://github.com/Eswar5313"><img src="https://img.shields.io/badge/⬅-CAREER_CONTROL_TOWER-000000?style=for-the-badge&labelColor=FFFFFF" alt="CAREER CONTROL TOWER"/></a> <a href="https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/"><img src="https://img.shields.io/badge/✦-MASTER_PORTFOLIO-000000?style=for-the-badge&labelColor=C9CDD6" alt="MASTER PORTFOLIO"/></a> <a href="https://eswar5313.github.io/Eswar-Portfolio-Lens-Index-2026/"><img src="https://img.shields.io/badge/✦-LENS_INDEX-000000?style=for-the-badge&labelColor=FFFFFF" alt="LENS INDEX"/></a> <a href="https://eswar5313.github.io/hexa-data-analytics-portfolio/"><img src="https://img.shields.io/badge/✦-LIVE_DASHBOARD-000000?style=for-the-badge&labelColor=FFFFFF" alt="LIVE DASHBOARD"/></a>
+<a href="https://github.com/Eswar5313"><img src="https://img.shields.io/badge/⬅-CAREER_CONTROL_TOWER-0B1026?style=for-the-badge&labelColor=00E5FF" alt="CAREER CONTROL TOWER"/></a> <a href="https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/"><img src="https://img.shields.io/badge/✦-MASTER_PORTFOLIO-0B1026?style=for-the-badge&labelColor=B388FF" alt="MASTER PORTFOLIO"/></a> <a href="https://eswar5313.github.io/Eswar-Portfolio-Lens-Index-2026/"><img src="https://img.shields.io/badge/✦-LENS_INDEX-0B1026?style=for-the-badge&labelColor=00E5FF" alt="LENS INDEX"/></a> <a href="https://eswar5313.github.io/hexa-data-analytics-portfolio/"><img src="https://img.shields.io/badge/✦-LIVE_DASHBOARD-0B1026?style=for-the-badge&labelColor=00E5FF" alt="LIVE DASHBOARD"/></a>
 
-<img src="https://img.shields.io/badge/PROJECTS-13-FFFFFF?style=for-the-badge&labelColor=000000" alt="PROJECTS: 13"/> <img src="https://img.shields.io/badge/PDF_REPORTS-13-C9CDD6?style=for-the-badge&labelColor=000000" alt="PDF REPORTS: 13"/> <img src="https://img.shields.io/badge/EXECUTIVE_DECKS-13-FFFFFF?style=for-the-badge&labelColor=000000" alt="EXECUTIVE DECKS: 13"/> <img src="https://img.shields.io/badge/RUNNABLE_SCRIPTS-11-C9CDD6?style=for-the-badge&labelColor=000000" alt="RUNNABLE SCRIPTS: 11"/> <img src="https://img.shields.io/badge/DOMAINS-8-FFFFFF?style=for-the-badge&labelColor=000000" alt="DOMAINS: 8"/>
+<img src="https://img.shields.io/badge/PROJECTS-13-00E5FF?style=for-the-badge&labelColor=0B1026" alt="PROJECTS: 13"/> <img src="https://img.shields.io/badge/PDF_REPORTS-13-B388FF?style=for-the-badge&labelColor=0B1026" alt="PDF REPORTS: 13"/> <img src="https://img.shields.io/badge/EXECUTIVE_DECKS-13-00E5FF?style=for-the-badge&labelColor=0B1026" alt="EXECUTIVE DECKS: 13"/> <img src="https://img.shields.io/badge/RUNNABLE_SCRIPTS-11-B388FF?style=for-the-badge&labelColor=0B1026" alt="RUNNABLE SCRIPTS: 11"/> <img src="https://img.shields.io/badge/DOMAINS-8-00E5FF?style=for-the-badge&labelColor=0B1026" alt="DOMAINS: 8"/>
 
 **13 end-to-end analytics projects** · EDA · SQL · statistics · ML · API pipelines · BI dashboards — *HEXA Solutions, Data Analyst, Jun – Sep 2026*
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FFFFFF) ![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=FFFFFF) ![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=FFFFFF) ![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=FFFFFF) ![Power BI](https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=FFFFFF) ![Tableau](https://img.shields.io/badge/Tableau-000000?style=flat-square&logo=tableau&logoColor=FFFFFF) ![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=FFFFFF) ![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-0B1026?style=flat-square&logo=python&logoColor=00E5FF) ![SQL](https://img.shields.io/badge/SQL-0B1026?style=flat-square&logo=mysql&logoColor=00E5FF) ![Pandas](https://img.shields.io/badge/Pandas-0B1026?style=flat-square&logo=pandas&logoColor=00E5FF) ![scikit-learn](https://img.shields.io/badge/scikit--learn-0B1026?style=flat-square&logo=scikitlearn&logoColor=00E5FF) ![Power BI](https://img.shields.io/badge/Power_BI-0B1026?style=flat-square&logo=powerbi&logoColor=00E5FF) ![Tableau](https://img.shields.io/badge/Tableau-0B1026?style=flat-square&logo=tableau&logoColor=00E5FF) ![Streamlit](https://img.shields.io/badge/Streamlit-0B1026?style=flat-square&logo=streamlit&logoColor=00E5FF) ![SQLite](https://img.shields.io/badge/SQLite-0B1026?style=flat-square&logo=sqlite&logoColor=00E5FF)
 
 </div>
 
@@ -141,11 +141,11 @@ Every project follows **CRISP-DM**: business understanding → data understandin
 **Eswar Mahalingam** · B.Com · MBA · PGDLSCM · CSCMP SCPro · Six Sigma Black Belt
 Data Scientist @ Zidio Development · Ghaziabad NCR, India · Open to India · EU (Blue Card) · Gulf · Immediate joiner
 
-[![LinkedIn](https://img.shields.io/badge/✦-LINKEDIN-000000?style=for-the-badge&labelColor=C9CDD6)](https://linkedin.com/in/eswar-mahalingam)
-[![Email](https://img.shields.io/badge/✦-EMAIL-000000?style=for-the-badge&labelColor=FFFFFF)](mailto:eswarmba05313@gmail.com)
-[![Phone](https://img.shields.io/badge/✦-+91_9360548243-000000?style=for-the-badge&labelColor=C9CDD6)](tel:+919360548243)
-[![Portfolio](https://img.shields.io/badge/✦-PORTFOLIO_SITE-000000?style=for-the-badge&labelColor=FFFFFF)](https://eswar-3d-portfolio.netlify.app)
-[![Profile](https://img.shields.io/badge/⬅-CAREER_CONTROL_TOWER-000000?style=for-the-badge&labelColor=FFFFFF)](https://github.com/Eswar5313)
+[![LinkedIn](https://img.shields.io/badge/✦-LINKEDIN-0B1026?style=for-the-badge&labelColor=B388FF)](https://linkedin.com/in/eswar-mahalingam)
+[![Email](https://img.shields.io/badge/✦-EMAIL-0B1026?style=for-the-badge&labelColor=00E5FF)](mailto:eswarmba05313@gmail.com)
+[![Phone](https://img.shields.io/badge/✦-+91_9360548243-0B1026?style=for-the-badge&labelColor=B388FF)](tel:+919360548243)
+[![Portfolio](https://img.shields.io/badge/✦-PORTFOLIO_SITE-0B1026?style=for-the-badge&labelColor=00E5FF)](https://eswar-3d-portfolio.netlify.app)
+[![Profile](https://img.shields.io/badge/⬅-CAREER_CONTROL_TOWER-0B1026?style=for-the-badge&labelColor=00E5FF)](https://github.com/Eswar5313)
 
 <img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/kailash-footer.svg" width="100%" alt="" />
 
